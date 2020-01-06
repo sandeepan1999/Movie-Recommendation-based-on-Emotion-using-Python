@@ -1,0 +1,2 @@
+# Movie-Recommendation-based-on-Emotion-using-Python
+The correspondence of every emotion with genre of movies is listed below:  Sad – Drama Disgust – Musical Anger – Family Anticipation – Thriller Fear – Sport Enjoyment – Thriller Trust – Western Surprise – Film-Noir  Based on the input emotion, the corresponding genre would be selected and all the top 5 movies of that genre would be recommended to the user.
